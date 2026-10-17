@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_draw_show_controls_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_show_controls_map",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

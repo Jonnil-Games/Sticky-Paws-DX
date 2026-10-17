@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_delete_sprite_properly",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_delete_sprite_properly",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

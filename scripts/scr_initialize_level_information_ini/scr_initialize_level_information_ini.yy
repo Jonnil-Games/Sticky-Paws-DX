@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_initialize_level_information_ini",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_initialize_level_information_ini",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

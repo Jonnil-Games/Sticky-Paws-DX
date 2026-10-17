@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_initialize_resource_pack_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_initialize_resource_pack_sprite",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

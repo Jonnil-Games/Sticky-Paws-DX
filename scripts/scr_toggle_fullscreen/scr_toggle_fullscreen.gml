@@ -1,0 +1,18 @@
+function scr_toggle_fullscreen()
+{
+	if (keyboard_check_pressed(global.fullscreen_key)
+	&& !scr_capture_mode_owns_window()) /* Capture presets own the temporary output size until restoration finishes. */
+	{
+		if (window_get_fullscreen()) /* If fullscreen is on, then turn fullscreen off */
+		{
+			window_set_fullscreen(false);
+		}
+		else /* If fullscreen is off, then turn fullscreen on */
+		{
+			window_set_fullscreen(true);
+		}
+		ini_open("save_file/config.ini");
+		ini_write_real("config", "fullscreen_mode", window_get_fullscreen()); /* Save fullscreen settings to config.ini */
+		ini_close(); /* Don't commit the save data on Switch, this is only temporary! */
+	}
+}

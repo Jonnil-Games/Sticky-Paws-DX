@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_scroll_menu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_scroll_menu",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

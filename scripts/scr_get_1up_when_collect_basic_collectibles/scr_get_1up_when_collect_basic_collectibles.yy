@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_get_1up_when_collect_basic_collectibles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_1up_when_collect_basic_collectibles",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
