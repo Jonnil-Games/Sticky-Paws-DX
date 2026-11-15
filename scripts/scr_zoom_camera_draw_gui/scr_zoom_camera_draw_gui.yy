@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_zoom_camera_draw_gui",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_zoom_camera_draw_gui",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

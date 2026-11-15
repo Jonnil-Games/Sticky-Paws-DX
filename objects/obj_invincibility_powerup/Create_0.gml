@@ -1,0 +1,9 @@
+depth = 10;
+hspeed = 0;
+sprite_index = global.resource_pack_sprite_invincibility_powerup;
+image_speed = 0.1;
+effect_time = 0;
+bounce_up = false;
+coil_spring = false;
+draw_xscale = 1;
+draw_yscale = 1;

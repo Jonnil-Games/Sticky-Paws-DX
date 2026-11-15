@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_controller_sprites_to_use",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_controller_sprites_to_use",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
